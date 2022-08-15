@@ -1,6 +1,6 @@
 # Biblioteca Booklet
 
-_Proyecto que permite desplegar el control para la creación, modificacion, eliminación de usuarios respondiendo a las peticiones (request) a traves del controlador utilizando
+_Proyecto que permite desplegar el control para la creación, modificacion, eliminación de objetos de tipo libro realizando persistencia de datos, respondiendo a las peticiones (request) a traves del controlador utilizando
 
 * crudRepository, jsp, spring web, oracle driver, lombok
 _
